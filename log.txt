@@ -1,0 +1,42 @@
+commit 0ec543cf6f2de4a0888d0fe7536c9eba2174180d
+Merge: 1b54655 97bbe17
+Author: erency3 <erency3@gmail.com>
+Date:   Mon Jan 4 16:52:37 2021 +0300
+
+    last commit
+
+commit 97bbe171d60c76e7fd4849251e1428f896efe0a1
+Author: erency3 <erency3@gmail.com>
+Date:   Mon Jan 4 16:26:48 2021 +0300
+
+    commit in the branch
+
+ textfile2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1b54655e42f61a5d7381033e7e311d38abec4c9c
+Author: erency3 <erency3@gmail.com>
+Date:   Mon Jan 4 16:23:27 2021 +0300
+
+    textfile2.txt changed
+
+ textfile2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 5440d2459b853c83820c84fd68820be1eb788e97
+Author: erency3 <erency3@gmail.com>
+Date:   Mon Jan 4 16:17:33 2021 +0300
+
+    textfile2 commit
+
+ textfile2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7670f5c9ad80642e7b782fcaa60e61a72256cce7
+Author: erency3 <erency3@gmail.com>
+Date:   Mon Jan 4 16:07:14 2021 +0300
+
+    first commit in the task
+
+ textfile1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
